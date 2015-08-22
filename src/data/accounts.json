@@ -1,0 +1,15 @@
+[
+    {
+        "id": 1,
+        "alias": "Current Account",
+        "accountNumber": "001235",
+        "balance": "€ 1.389,20"
+    },
+
+    {
+        "id": 2,
+        "alias": "Savings",
+        "accountNumber": "001234",
+        "balance": "€ 21.884,00"
+    }
+]

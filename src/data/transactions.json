@@ -1,0 +1,22 @@
+[
+	{
+		"id": 1,
+		"description": "Kauai",
+		"date": "22 Apr",
+		"amount": "€ -25,97"
+	},
+
+	{
+		"id": 2,
+		"description": "AH",
+		"date": "22 Apr",
+		"amount": "€ -95,97"
+	},
+
+	{
+		"id": 3,
+		"description": "KPN",
+		"date": "22 Apr",
+		"amount": "€ -35,00"
+	}
+]
