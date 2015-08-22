@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
                BuildableName = "Backbase React.app"
-               BlueprintName = "backbase"
-               ReferencedContainer = "container:backbase.xcodeproj">
+               BlueprintName = "ReactBank"
+               ReferencedContainer = "container:ReactBank.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -29,9 +29,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "backbaseTests.xctest"
-               BlueprintName = "backbaseTests"
-               ReferencedContainer = "container:backbase.xcodeproj">
+               BuildableName = "ReactBankTests.xctest"
+               BlueprintName = "ReactBankTests"
+               ReferencedContainer = "container:ReactBank.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -47,9 +47,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "backbaseTests.xctest"
-               BlueprintName = "backbaseTests"
-               ReferencedContainer = "container:backbase.xcodeproj">
+               BuildableName = "ReactBankTests.xctest"
+               BlueprintName = "ReactBankTests"
+               ReferencedContainer = "container:ReactBank.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -58,8 +58,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
             BuildableName = "Backbase React.app"
-            BlueprintName = "backbase"
-            ReferencedContainer = "container:backbase.xcodeproj">
+            BlueprintName = "ReactBank"
+            ReferencedContainer = "container:ReactBank.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -78,8 +78,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
             BuildableName = "Backbase React.app"
-            BlueprintName = "backbase"
-            ReferencedContainer = "container:backbase.xcodeproj">
+            BlueprintName = "ReactBank"
+            ReferencedContainer = "container:ReactBank.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -97,8 +97,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
             BuildableName = "Backbase React.app"
-            BlueprintName = "backbase"
-            ReferencedContainer = "container:backbase.xcodeproj">
+            BlueprintName = "ReactBank"
+            ReferencedContainer = "container:ReactBank.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

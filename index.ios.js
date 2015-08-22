@@ -25,16 +25,9 @@ var {
 } = React;
 
 var {
-    AddressBook,
-    MyCustomModule
+    AddressBook
 } = NativeModules;
 
-var MyCustomView = requireNativeComponent('MyCustomView')
-
-
-MyCustomModule.processString('Goodbye', function(data){
-    console.log(data)
-})
 
 StatusBarIOS.setStyle(0);
 var colors = ['#bc6412', '#b63c24', '#c12121', '#423c35', '#e35a2d', '#eb7d17', '#fabb1b', '#ffd900', '#b6c320', '#76b812', '#13a581', '#1281ab', '#344cb4', '#70279b', '#9b277e', '#d51371', '#ccae00', '#c89616'];
@@ -601,9 +594,3 @@ var animations = {
 
 
 AppRegistry.registerComponent('backbase', () => Capitec);
-
-/*<ActivityIndicatorIOS
-animating={this.state.animating}
-style={styles.natigator}
-size="large"
-/>*/
